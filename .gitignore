@@ -1,4 +1,6 @@
-env
 __pycache__
-*.sqlite3
+dist
+env
+*.egg-info
 *.geany
+*.sqlite3
